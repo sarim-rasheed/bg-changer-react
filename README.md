@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Background Changer React Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Run npm Install 
 
-In the project directory, you can run:
+After colning the project directory, you must run the npm install to download node-modules before run the app.
 
 ### `npm start`
 
